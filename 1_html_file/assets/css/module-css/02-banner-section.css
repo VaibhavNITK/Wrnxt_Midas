@@ -349,7 +349,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    width: calc((100% + 420px) / 2);
+    width: 100%;
     background-color: var(--thm-primary);
     z-index: -1;
 }
